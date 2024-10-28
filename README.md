@@ -10,10 +10,13 @@ by the speed of light. The ionogram is shaped by making a trace of this height a
 transmitted wave. Along with the echoes of the ionosphere, ionograms usually contain a large amount of
 noise and interference of different nature that must be removed in order to extract useful information. In
 the present work, we propose a method based on convolutional neural networks to extract ionospheric
-echoes from digital ionograms. Extraction using the CNN model is compared with extraction using
-machine learning techniques. From the extracted traces, ionospheric parameters can be determined and
+echoes from digital ionograms. From the extracted traces, ionospheric parameters can be determined and
 electron density profile can be derived.
 
+### Neural Network Architecture
+<p align="center">
+  <img src="assets/architecture.jpg" alt="Image 5" width="600px"/>
+</p>
 ### Results 
 <p align="center">
   <img src="assets/descarga (1).png" alt="Image 1" width="300px"/>

@@ -3,7 +3,7 @@
 We aim to replicate the experiments described in the paper "Ionospheric Echo Detection in Digital Ionograms Using
 Convolutional Neural Networks" from the Advancing Earth and Space Science Journal submissions 2021.
 
-This project was done in my last two weeks at the Radio Astronomy Institute as part of the pipiline for the processing of ionograms measured at the Jicamarca Observatory and Pontifical Catholic University of Peru. 
+This project was done in my last two weeks at the Radio Astronomy Institute as part of the pipeline for the processing of ionograms measured at the Jicamarca Observatory and Pontifical Catholic University of Peru. 
 
 ### Abstract
 An ionogram is a graph of the time that a vertically transmitted wave takes to return to the
